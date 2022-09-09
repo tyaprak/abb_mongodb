@@ -9,6 +9,7 @@ class Data:
         self.abb=abb.upper()
         self.target = { "abbr":abb }
         self.data=conn.find(self.target)
+        self.t10=conn.find().sort("v",pymongo.DESCENDING)
         for i in self.data:
             self.ff=i["fullforms"]
             self.count=i["v"]
