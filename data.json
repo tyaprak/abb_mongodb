@@ -1,0 +1,33 @@
+{"objects":
+[
+{
+    "id":"0",
+    "abbr":"AA",
+    "fullforms":["Aerial Ally","Another Ally"],
+    "v":0
+},
+{
+    "id":"1",
+    "abbr":"AAB",
+    "fullforms":["As a Block"],
+    "v":0
+},
+{
+    "id":"2",
+    "abbr":"BF",
+    "fullforms":["Best Friend","Boy Friend"],
+    "v":0
+},
+{
+    "id":"3",
+    "abbr":"TD",
+    "fullforms":["Test Data"],
+    "v":0
+},
+{
+    "id":"4",
+    "abbr":"FD",
+    "fullforms":["Final Data"],
+    "v":0
+}
+]}
