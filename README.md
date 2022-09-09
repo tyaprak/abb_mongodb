@@ -2,4 +2,4 @@
 
 ## data object infografigi
 
-![alt text](img/data.png.png)
+![alt text](img/data.png)
